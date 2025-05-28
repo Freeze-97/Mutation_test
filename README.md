@@ -1,4 +1,4 @@
-# Mutation Test
+# 🧑‍🔬 Mutation Test
 This project demonstrates mutation testing using unit tests in Java. The goal of mutation testing is to evaluate the effectiveness of a test suite by introducing small changes (mutants) into the code and verifying whether the tests can detect them.
 
 ## 📌 Project Structure
